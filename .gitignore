@@ -1,0 +1,46 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Node modules (if you later add npm or build tools)
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Cache files
+.cache/
+.parcel-cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Desktop.ini
+
+# Python cache (if you add backend scripts later)
+__pycache__/
+*.pyc
+
+# Coverage reports
+coverage/
+
+# Generated files
+*.map
