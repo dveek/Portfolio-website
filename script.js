@@ -62,7 +62,8 @@ const selectedProjects = [
     "omni-search",
     "DAA-TSP",
     "ccms",
-    "Billing-System"
+    "Billing-System",
+    "FileMind-AI"
 ];
 
 /* CUSTOM TITLES */
@@ -70,7 +71,8 @@ const customTitles = {
     "omni-search": "OMNI Search",
     "DAA-TSP": "Visual Representation of TSP",
     "ccms": "Credit Card Management System",
-    "Billing-System": "Groceries Billing System"
+    "Billing-System": "Groceries Billing System",
+    "FileMind-AI":"FileMind-AI"
 };
 
 /* CUSTOM DESCRIPTIONS */
@@ -85,7 +87,8 @@ const customDescriptions = {
     "ccms":
         "Credit Card Management System with secure authentication, transaction management, billing operations, and customer account handling.",
     "Billing-System": 
-    "Full-stack Billing System built with HTML, CSS, JavaScript, Node.js, and SQL. Features bill creation, automatic total calculations, customer billing management, and secure storage of records in a local SQL database. Demonstrates CRUD operations, backend integration, and data persistence."
+    "Full-stack Billing System built with HTML, CSS, JavaScript, Node.js, and SQL. Features bill creation, automatic total calculations, customer billing management, and secure storage of records in a local SQL database. Demonstrates CRUD operations, backend integration, and data persistence.",
+    "FileMind-AI": "AI-powered local file manager that simplifies file organization and discovery. Search files by type (PDF, TXT, images, etc.), detect and remove duplicates, and generate AI-based summaries for supported documents. Designed to improve productivity by making local file management faster, smarter, and more efficient."
 
 };
 
