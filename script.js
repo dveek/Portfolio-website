@@ -63,7 +63,8 @@ const selectedProjects = [
     "DAA-TSP",
     "ccms",
     "Billing-System",
-    "FileMind-AI"
+    "FileMind-AI",
+    "MyWeather"
 ];
 
 /* CUSTOM TITLES */
@@ -72,7 +73,8 @@ const customTitles = {
     "DAA-TSP": "Visual Representation of TSP",
     "ccms": "Credit Card Management System",
     "Billing-System": "Groceries Billing System",
-    "FileMind-AI":"FileMind-AI"
+    "FileMind-AI":"FileMind-AI",
+    "MyWeather": "MyWeather"
 };
 
 /* CUSTOM DESCRIPTIONS */
@@ -88,7 +90,8 @@ const customDescriptions = {
         "Credit Card Management System with secure authentication, transaction management, billing operations, and customer account handling.",
     "Billing-System": 
     "Full-stack Billing System built with HTML, CSS, JavaScript, Node.js, and SQL. Features bill creation, automatic total calculations, customer billing management, and secure storage of records in a local SQL database. Demonstrates CRUD operations, backend integration, and data persistence.",
-    "FileMind-AI": "AI-powered local file manager that simplifies file organization and discovery. Search files by type (PDF, TXT, images, etc.), detect and remove duplicates, and generate AI-based summaries for supported documents. Designed to improve productivity by making local file management faster, smarter, and more efficient."
+    "FileMind-AI": "AI-powered local file manager that simplifies file organization and discovery. Search files by type (PDF, TXT, images, etc.), detect and remove duplicates, and generate AI-based summaries for supported documents. Designed to improve productivity by making local file management faster, smarter, and more efficient.",
+    "MyWeather": "Built a responsive weather web application using the OpenWeather API to provide real-time weather information for any location. Implemented API integration and dynamic UI updates to display temperature, humidity, wind speed, and current weather conditions."
 
 };
 

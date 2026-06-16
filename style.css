@@ -309,13 +309,31 @@ ul{
     transition:var(--transition);
     cursor:pointer;
 }
+.skill-card1{
+    background:var(--dark-gray);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    padding:30px;
+    text-align:center;
+    transition:var(--transition);
+    cursor:pointer;
+    color: #00599C;
+}
 
 .skill-card i{
     font-size:2rem;
     margin-bottom:15px;
 }
+.skill-card1 i{
+    font-size:2rem;
+    margin-bottom:15px;
+}
 
 .skill-card span{
+    display:block;
+    font-weight:500;
+}
+.skill-card1 span{
     display:block;
     font-weight:500;
 }
@@ -325,8 +343,16 @@ ul{
     box-shadow:
     0 0 30px rgba(255,255,255,.18);
 }
+.skill-card1:hover{
+    transform:translateY(-8px) scale(1.04);
+    box-shadow:
+    0 0 30px rgba(255,255,255,.18);
+}
 
 .skill-card:hover i{
+    transform:scale(1.2);
+}
+.skill-card1:hover i{
     transform:scale(1.2);
 }
 
