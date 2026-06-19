@@ -699,3 +699,22 @@ footer p{
     color: #ccc;
     line-height: 1.7;
 }
+
+.leetcode-container{
+    display:flex;
+    justify-content:center;
+    margin-top:40px;
+}
+
+.leetcode-card{
+    width:100%;
+    max-width:600px;
+    border-radius:20px;
+    border:1px solid rgba(255,255,255,0.1);
+    transition:0.3s ease;
+}
+
+.leetcode-card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 0 25px rgba(255,255,255,0.08);
+}
